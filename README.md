@@ -1,4 +1,8 @@
-# Imobiliária Santos
+# Versão de atualização do layout do projeto
+
+O objetivo desta branch é implementar uma nova interface ao projeto.
+
+## Imobiliária Santos 
 
 Projeto de uma landing page institucional para uma imobiliária, com foco em apresentar a empresa, seus serviços, corretores e informações de contato.
 
